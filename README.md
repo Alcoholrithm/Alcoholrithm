@@ -1,9 +1,10 @@
 <div align="center">
 
 ![cylinder](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20To%20Alcoholrithm's%20profile%20&fontAlignY=45&fontSize=50&height=250&fontColor=FFFFFF)
-
-
   
+  <h2></h2>
+  
+  <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Alcoholrithm&show_icons=true" />
   
 <p float="left">
@@ -14,8 +15,8 @@
 <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=kmiiiaa"/>
 
 </p>
-  
-💻 Tech Stack 💻 <br>
+  <br>
+  <h2> 💻 Tech Stack 💻 </h2>
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&color=yellow">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=blue">
