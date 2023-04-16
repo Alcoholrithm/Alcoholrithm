@@ -5,14 +5,17 @@
   <h2></h2>
   
   <br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alcoholrithm&layout=compact" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=Alcoholrithm&show_icons=true" />
   
-<p float="left">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alcoholrithm&layout=compact" />
+<!-- <p float="left"> -->
   
 
-<img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=kmiiiaa"/>
+  
+
+<!-- <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=kmiiiaa"/> -->
 
 </p>
   <br>
@@ -23,5 +26,6 @@
 <br> <br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white&color=orange">
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white&color=red">
+<img src="https://img.shields.io/badge/Pytorch Lightning-EE4C2C?style=for-the-badge&logo=Pytorch Lightning&logoColor=white&color=darkviolet">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&color=dodgerblue">
 </div>
