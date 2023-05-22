@@ -28,4 +28,6 @@
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white&color=red">
 <img src="https://img.shields.io/badge/Pytorch Lightning-EE4C2C?style=for-the-badge&logo=Pytorch Lightning&logoColor=white&color=darkviolet">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&color=dodgerblue">
+<br><br>
+<img src="https://img.shields.io/badge/Object Oriented Programming-3766AB?style=for-the-badge&logo=Object Oriented Programming&logoColor=white"/>
 </div>
